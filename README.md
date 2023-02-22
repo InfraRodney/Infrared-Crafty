@@ -5,9 +5,11 @@ Infrared's Crafty is Infrared Interactive's expansion to the [CraftyJS engine](h
 ## Usage
 Simple Platformer Using Infrared Crafty
 ```javascript
-createPlayer(0, 0, 30, 30, "red", 200, 150);
+createPlayer(30, 0, 30, 30, "red", 200, 300);
 createFloor(0, 240, 600, 10, "black");
-createEntity(0, 0, 15, 15, "green")
+createDeathBarrier(-10, 0, 10, 1200);
+createDeathBarrier(500, 0, 10, 1200);
+// The barriers only work on the default resolution the engine sets, tweak their X and Y positions for your desired resolution
 ```
 That's right! Coding is almost not a problem in this engine, even when you need more complex things like collisions, the engine has that built in too!
 
