@@ -1,7 +1,7 @@
 
 # Infrared Crafty
 
-Infrared's Crafty is Infrared Interactive's expansion to the [CraftyJS engine](https://github.com/craftyjs/Crafty). The engine makes making games with CraftyJS easy, at an expedious rate.
+Infrared's Crafty is Infrared Interactive's expansion to the [CraftyJS engine](https://github.com/craftyjs/Crafty). The engine makes making games with CraftyJS easy, at an expedious rate. We have made game programming look so easy. Become a game developer now, and check out our YouTube channel for tutorials.
 ## Usage
 Simple Platformer Using Infrared Crafty
 ```javascript
