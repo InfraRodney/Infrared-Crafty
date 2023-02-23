@@ -20,7 +20,7 @@ Use/install Infrared Crafty\
 Just copy this and put it in your game HTML5 file:
   ```javascript
   <div id="game">
-  <script type="text/javascript" src="https://rawgithub.com/craftyjs/Crafty/release/dist/crafty-min.js"></script>
+  <script type="text/javascript" src="https://raw.githubusercontent.com/InfraRodney/Infrared-Crafty/main/crafty-min.js"></script>
   <script src="https://raw.githubusercontent.com/InfraRodney/Infrared-Crafty/main/core.js"></script>
   ```
   There are more advanced tutorials coming soon!
